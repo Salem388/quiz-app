@@ -1,0 +1,170 @@
+[
+  {
+      "title": "Which of the following is a JavaScript framework?",
+      "answer_1": "React",
+      "answer_2": "Laravel",
+      "answer_3": "Django",
+      "answer_4": "Flask",
+      "right_answer": "React"
+  },
+  {
+      "title": "Which of the following is a primitive data type in JavaScript?",
+      "answer_1": "Array",
+      "answer_2": "Object",
+      "answer_3": "String",
+      "answer_4": "Function",
+      "right_answer": "String"
+  },
+  {
+      "title": "What does 'this' keyword refer to in a method?",
+      "answer_1": "Global Object",
+      "answer_2": "Current Object",
+      "answer_3": "Window",
+      "answer_4": "Document",
+      "right_answer": "Current Object"
+  },
+  {
+      "title": "Which method can be used to create a new array from an existing one?",
+      "answer_1": "Array.push()",
+      "answer_2": "Array.pop()",
+      "answer_3": "Array.filter()",
+      "answer_4": "Array.indexOf()",
+      "right_answer": "Array.filter()"
+  },
+  {
+      "title": "Which of the following is a JavaScript feature?",
+      "answer_1": "Block-level scope",
+      "answer_2": "File Inclusion",
+      "answer_3": "Dynamic Typing",
+      "answer_4": "Compiled Execution",
+      "right_answer": "Dynamic Typing"
+  },
+  {
+      "title": "Which method is used to stop event bubbling?",
+      "answer_1": "stopPropagation()",
+      "answer_2": "preventDefault()",
+      "answer_3": "stopBubbling()",
+      "answer_4": "cancelEvent()",
+      "right_answer": "stopPropagation()"
+  },
+  {
+      "title": "Which symbol is used for single-line comments in JavaScript?",
+      "answer_1": "//",
+      "answer_2": "/* */",
+      "answer_3": "<!-- -->",
+      "answer_4": "#",
+      "right_answer": "//"
+  },
+  {
+      "title": "What is the correct syntax to declare a variable in JavaScript?",
+      "answer_1": "let variableName;",
+      "answer_2": "var: variableName;",
+      "answer_3": "declare variableName;",
+      "answer_4": "dim variableName;",
+      "right_answer": "let variableName;"
+  },
+  {
+      "title": "Which method converts JSON data into a JavaScript object?",
+      "answer_1": "JSON.stringify()",
+      "answer_2": "JSON.parse()",
+      "answer_3": "parseJSON()",
+      "answer_4": "objectifyJSON()",
+      "right_answer": "JSON.parse()"
+  },
+  {
+      "title": "Which method can be used to join two or more arrays?",
+      "answer_1": "concat()",
+      "answer_2": "push()",
+      "answer_3": "join()",
+      "answer_4": "merge()",
+      "right_answer": "concat()"
+  },
+  {
+      "title": "Which statement is used to exit a loop in JavaScript?",
+      "answer_1": "break",
+      "answer_2": "exit",
+      "answer_3": "stop",
+      "answer_4": "return",
+      "right_answer": "break"
+  },
+  {
+      "title": "Which operator is used to check strict equality in JavaScript?",
+      "answer_1": "==",
+      "answer_2": "=",
+      "answer_3": "===",
+      "answer_4": "!==",
+      "right_answer": "==="
+  },
+  {
+      "title": "Which method adds new elements to the end of an array?",
+      "answer_1": "push()",
+      "answer_2": "pop()",
+      "answer_3": "shift()",
+      "answer_4": "unshift()",
+      "right_answer": "push()"
+  },
+  {
+      "title": "What is the correct syntax to create an arrow function?",
+      "answer_1": "let myFunc = () => {}",
+      "answer_2": "let myFunc = ({} =>)",
+      "answer_3": "let myFunc => () {}",
+      "answer_4": "let myFunc = () {} =>",
+      "right_answer": "let myFunc = () => {}"
+  },
+  {
+      "title": "Which built-in method is used to call a function repeatedly at specified intervals?",
+      "answer_1": "setTimeout()",
+      "answer_2": "setInterval()",
+      "answer_3": "clearTimeout()",
+      "answer_4": "repeat()",
+      "right_answer": "setInterval()"
+  },
+  {
+      "title": "Which event occurs when an HTML element is clicked?",
+      "answer_1": "onchange",
+      "answer_2": "onmouseclick",
+      "answer_3": "onclick",
+      "answer_4": "onmouseover",
+      "right_answer": "onclick"
+  },
+  {
+      "title": "Which method is used to create a shallow copy of an array?",
+      "answer_1": "slice()",
+      "answer_2": "splice()",
+      "answer_3": "map()",
+      "answer_4": "filter()",
+      "right_answer": "slice()"
+  },
+  {
+      "title": "What is the output of the following code: console.log(typeof null)?",
+      "answer_1": "'null'",
+      "answer_2": "'undefined'",
+      "answer_3": "'object'",
+      "answer_4": "'string'",
+      "right_answer": "'object'"
+  },
+  {
+      "title": "What does the 'async' keyword do in JavaScript?",
+      "answer_1": "Executes code synchronously",
+      "answer_2": "Executes code asynchronously",
+      "answer_3": "Returns a promise",
+      "answer_4": "Executes code in parallel",
+      "right_answer": "Executes code asynchronously"
+  },
+  {
+      "title": "Which statement declares a constant in JavaScript?",
+      "answer_1": "let",
+      "answer_2": "var",
+      "answer_3": "const",
+      "answer_4": "static",
+      "right_answer": "const"
+  },
+  {
+      "title": "Which of the following is not a falsy value in JavaScript?",
+      "answer_1": "0",
+      "answer_2": "null",
+      "answer_3": "'false'",
+      "answer_4": "undefined",
+      "right_answer": "'false'"
+  }
+]
